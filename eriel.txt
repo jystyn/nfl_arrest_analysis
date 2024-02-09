@@ -1,0 +1,11 @@
+In this statistics analysiz, we presents some significants stats of data.
+# Based on the number of arrestation, calculate which team have the most arrested players.
+MIN : 49
+DEN : 47
+CIN : 44
+TEN : 36
+TB : 36
+
+# Determine the measures of central tendancy of arrestation
+According to result, at least 47 have been arrested each year 
+At least 24 players have been arrested each year
