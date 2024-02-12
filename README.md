@@ -17,14 +17,14 @@ As a group we were curious about whether playing a certain position, how often y
 <font size="7">Data Analysis Process:
 To better understand these statistics we needed to analyze our data and create certain graphs to decide on our hypothesis:
   - <font size="6">Hypothesis Testing
-  
-  - Statistical Analysis
+  We hypothesized that defensive players would commit more crimes than offensive players because how often they are slamming their heads into the opposition. We also thought that the NFL would __ be able to decrease crime amongst its players.
+  - <font size="6">Statistical Analysis
 
-  - Bar Graphs
+  - <font size="6">Bar Graphs
 
-  - Line Graphs
+  - <font size="6">Line Graphs
 
-  - Linear Regression
+  - <font size="6">Linear Regression
 
 
-<font size="6">Conclusions:
+<font size="7">Conclusions:
