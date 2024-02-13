@@ -36,3 +36,16 @@ To better understand these statistics we needed to analyze our data and create c
 
 
 <font size="7">Credits/Sources/Thanks: 
+
+
+<font size="7">Table of Contents: 
+  - 01_charts:
+
+  - 02_bar_graphs:
+
+  - statistics:
+
+  - 03_analysis:
+
+  - 04_data_library:
+
