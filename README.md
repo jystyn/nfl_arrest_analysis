@@ -23,18 +23,26 @@ To better understand these statistics we needed to analyze our data and create c
   We hypothesized that defensive players would commit more crimes than offensive players because how often they are slamming their heads into the opposition. We also thought that the NFL would not be able to decrease crime amongst its players.
   - <font size="6">Statistical Analysis
 
+
   - <font size="6">Bar Graphs
 
+
   - <font size="6">Line Graphs
+
 
   - <font size="6">Linear Regression
 
 
+
 <font size="7">Project Analysis:
 
-Question 1: WHen looking at our first the equestion of "Whether Defensive Players commit more violent crimes", we theorized that yes they would because we assumed that these positions create more contact than offensive players and therefor it's in their nature to be more vilent off the field. These types of hits can create trauma on the brain, commingly known as CTE, and we assumed this repeated trauma would cause more violence off the field than offensive players. Based on the data we have, we cannot come to the conclusion that defensive players are commiting more violent crimes. The connection we can make is that the players that receive the most contact are more likely to commit violent crimes and crimes in general. Of the top 4 positions commitng violent crimes, half are offensive and the other half are defensive.
+  - In our first question, 'Whether Defensive Players commit more violent crimes,' we hypothesized that they would, assuming that these positions involve more physical contact than offensive roles. Consequently, we speculated that defensive players might exhibit more aggression off the field. We reasoned that the repeated trauma from such hits, often associated with conditions like Chronic Traumatic Encephalopathy (CTE), could contribute to increased violence outside of the game. However, based on the available data, we cannot conclusively assert that defensive players commit more violent crimes.
 
-Question 2: Our second question is attempting to find out whether the National Football League has been successful in decreasing the amount of crime its players are committing. Our hypothesis was that no, the NFL has not been successful because with the influx of social media and with the amount of videos coming out showcasing various assaults and the immense backlash the NFL was given there was no reason to believe they had made any success. After running our analysis we found that after the 2006 change in NFL policy, that delt with all crime, there were less violent crimes being committed year after year due to the enhanced repercussions from the policy. After the NFL policy change in 2014, that delt with violent crimes but specifically domestic violence, we found that these crimes did decrease but due to the lack of overall data we felt it was inconclusive. 
+Instead, our analysis suggests a different correlation: players subjected to higher levels of physical contact are more likely to engage in violent and criminal behavior. Notably, among the top four positions associated with violent crimes, half are offensive players, while the other half are defensive players.
+
+  - Our second question aims to determine whether the National Football League (NFL) has succeeded in reducing the incidence of crimes committed by its players. Our hypothesis was that, no, the NFL has not been successful. This conclusion was based on the advancements of social media and the abundance of videos depicting various assaults, along with the significant backlash the NFL faced. We found, however, that following the 2006 change in NFL policy, which addressed all types of crimes, there was a decrease in violent crimes committed year after year. This decline can be attributed to the heightened repercussions outlined in the policy. The r-value (0.7285) indicates a moderately strong correlation between the two variables, while the p-value (< 0.05) suggests that the correlation is significant and not merely due to random fluctuations in the data. Regarding the second graph, which examines the number of players released, the r-value (0.12) indicates a weak correlation. Furthermore, the p-value (0.325), being above the 0.05 threshold, indicates that we cannot confidently conclude the relationship is genuine.
+
+Following the NFL policy change in 2014, which specifically targeted violent crimes, including domestic violence, we observed a decrease in these offenses. However, due to the limited overall data available, our findings were inconclusive. The r-value (0.635) indicates a moderate to strong correlation, but the p-value (0.20), exceeding the 0.05 threshold, does not support statistical significance.
 
 <font size="7">Table of Contents: 
   - 01_charts:
@@ -45,6 +53,13 @@ Analyzes who is getting arrested over the years based on position type & Offensi
 Analyzes the statistical functions of all of our data. 
   - 04_data_library:
 Creating new columns to our dataframe, cleaning all of the data in preperation for the analysis.
+
+
+<font size="7">Limitations: 
+
+  - The dataframe itself was slightly under 1000 values, clocking in at 842, which it is preferred to be above that figure.
+  - The dataframe only had the years up until 2017, being that is 2024 we are missing out on 7 years of data which makes it harder to conclude statistical significance when it came to question 2.
+
 
 <font size="7">Credits/Sources/Thanks: 
   - Kaggle Datasets
