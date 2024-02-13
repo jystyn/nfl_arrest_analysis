@@ -29,4 +29,10 @@ To better understand these statistics we needed to analyze our data and create c
   - <font size="6">Linear Regression
 
 
-<font size="7">Conclusions:
+<font size="7">Project Analysis:
+
+
+
+
+
+<font size="7">Credits/Sources/Thanks: 
