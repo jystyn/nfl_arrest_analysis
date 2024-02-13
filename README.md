@@ -19,7 +19,7 @@ As a group we were curious about whether playing a certain position, how often y
 To better understand these statistics we needed to analyze our data and create certain graphs to decide on our hypothesis:
   - <font size="6">Hypothesis Testing
   
-  We hypothesized that defensive players would commit more crimes than offensive players because how often they are slamming their heads into the opposition. We also thought that the NFL would __ be able to decrease crime amongst its players.
+  We hypothesized that defensive players would commit more crimes than offensive players because how often they are slamming their heads into the opposition. We also thought that the NFL would not be able to decrease crime amongst its players.
   - <font size="6">Statistical Analysis
 
   - <font size="6">Bar Graphs
