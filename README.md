@@ -15,7 +15,7 @@ As a group we were curious about whether playing a certain position, how often y
 <font size="7">Data Exploration and Clean-Up Process:
 
 We downloaded our dataframe from the Kaggle website linked below. The file was originally a CSV file and we then did our work on both VS Code and Jupyter Notebooks before pushing it all to our GitHub. Our data is filled with 842 rows with detailed information about who committed what crime, when, and what the resolution was. The first important step was cleaning the dataframe to suit our needs. We had to extract keyword data from the resolution column in order to create 5 other columns. These columns were filled with 'Yes/No' and '1/0' values, which were then counted for graphing. We created another subset of data called 'Violent Crimes,' which combined data from a multitude of different crimes to be analyzed under a separate category. We did this same method for creating subsets about Ofeensive, Defensive and Special Teams Players as well. Reading through the dataframe checking for inconsistencies was also necessary to ensure there was no data that would affect our analysis.
-Kaggle: https://www.kaggle.com/datasets/patrickmurphy/nfl-arrests/data
+
 
 <font size="7">Data Analysis Process:
 To better understand these statistics we needed to analyze our data and create certain graphs to decide on our hypothesis:
@@ -24,16 +24,16 @@ To better understand these statistics we needed to analyze our data and create c
   We hypothesized that defensive players would commit more crimes than offensive players because how often they are slamming their heads into the opposition. We also thought that the NFL would not be able to decrease crime amongst its players.
   - <font size="6">Statistical Analysis
 
-
+  We intended to do some original analysis of the data to better understand the averages for teams when it came to arrest type, player position and find out which teams were affected the most. This information lead us to dig further into arrest type and player positions. These were all created over the course of 2000-2017.
   - <font size="6">Bar Graphs
 
-
+  The bar graphs were essential for visualizing Arrests by Position, Arrest Categories, Arrest Categories by Position and Arrests for Offensive & Defensive players - all key to answering our first question. These were all created over the course of 2000-2017.
   - <font size="6">Line Graphs
 
-
+  The line graphs were essential for visualizing Arrests by Year, for each arrest type. With the support of the laws passed by the NFL we were able to see parrallels between these graphs and policy change. These were all created over the course of 2000-2017.
   - <font size="6">Linear Regression
 
-
+  The linear regression graphs were essential for visualizing and understanding statistical significance for our second question. These were all created over the course of 2000-2017.
 
 <font size="7">Project Analysis:
 
@@ -59,6 +59,6 @@ Creating new columns to our dataframe, cleaning all of the data in preperation f
 
 
 <font size="7">Credits/Sources/Thanks: 
-  - Kaggle Datasets
+  - Kaggle: https://www.kaggle.com/datasets/patrickmurphy/nfl-arrests/data
   - https://stackoverflow.com/questions/19913659/how-do-i-create-a-new-column-where-the-values-are-selected-based-on-existing-col?newreg=909067fbb9d7451882800c4acc13174a
-  - 
+
