@@ -61,4 +61,6 @@ Creating new columns to our dataframe, cleaning all of the data in preperation f
 <font size="7">Credits/Sources/Thanks: 
   - Kaggle: https://www.kaggle.com/datasets/patrickmurphy/nfl-arrests/data
   - https://stackoverflow.com/questions/19913659/how-do-i-create-a-new-column-where-the-values-are-selected-based-on-existing-col?newreg=909067fbb9d7451882800c4acc13174a
+  - https://stackoverflow.com/questions/60665572/jupyter-notebook-putting-the-numbers-on-top-of-the-bar
+  - https://stackoverflow.com/questions/57975146/how-to-properly-plot-bar-chart-with-matplotlib
 
