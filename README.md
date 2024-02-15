@@ -64,3 +64,6 @@ Creating new columns to our dataframe, cleaning all of the data in preperation f
   - https://stackoverflow.com/questions/60665572/jupyter-notebook-putting-the-numbers-on-top-of-the-bar
   - https://stackoverflow.com/questions/57975146/how-to-properly-plot-bar-chart-with-matplotlib
 
+<font size="7">Google Slides: https://docs.google.com/presentation/d/1G7HkbL1Eimjw5z3xzxqfeZL0mHutKw3OXSBxcLPZEak/edit?usp=sharing
+
+
